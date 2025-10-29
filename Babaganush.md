@@ -8,6 +8,21 @@ Rinde aprox. **400–450 g de crema**, ideal para 4 personas como entrante.
 
 ### 🧾 **Ingredientes (por peso):**
 
+Cuando asas las berenjenas, **pierden entre un 30 % y un 40 % de su peso** por la evaporación del agua.
+
+
+| Ingrediente | Para 600 g berenjena cruda | Para 360-400 g pulpa asada | Diferencia (%) | Motivo                        |
+| ----------- | -------------------------- | ---------------------- | -------------- | ----------------------------- |
+| Tahini      | 50 g                       | 35 g                   | -30 %          | La pulpa está más concentrada |
+| Limón       | 25 g                       | 18 g                   | -28 %          | Evita acidez excesiva         |
+| Aceite      | 25 g                       | 18–20 g                | -25 %          | Misma textura, menor agua     |
+| Sal         | 3–4 g                      | 2.5–3 g                | -20 %          | Menor volumen final           |
+| Especias    | ≈1 g                       | ≈0.8–1 g               | ≈igual         | Mantener aroma equilibrado    |
+
+
+
+
+
 | Ingrediente                                         | Cantidad                       | Notas                                               |
 | --------------------------------------------------- | ------------------------------ | --------------------------------------------------- |
 | Berenjenas                                          | **600 g** (2 medianas-grandes) | Mejor asarlas enteras para sabor ahumado            |
