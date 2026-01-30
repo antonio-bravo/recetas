@@ -57,3 +57,18 @@ Receta de los tradicionales roscos fritos, tal y como los preparaba Teresa.
 - Para una tanda pequeña, emplea 1 huevo y la mitad del resto de ingredientes.
 
 ---
+## La receta literal de mi madre
+
+- 1 huevo
+- 4 cucharadas soperas de azúcar
+- 4 cucharadas soperas de aceite refrito con matalauva
+- 4 cucharadas de leche, se puede cambiar po zumo de naranja
+- 1/2 cucahradita de canela
+- Levadura depende del peso de la harina( 1 paquetillo de levadura para 350gr o 400gr de harina)
+- Un chorreon de anis
+
+- 470gr de harina para 2 huevos con 1 sobre de levadura
+Fritos con girasol
+A fuego lento poque se firen por fuera y por dentro se quedan crudos
+
+Cuando se frien se pasan por azucar con canela
