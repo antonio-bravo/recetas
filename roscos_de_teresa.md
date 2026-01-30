@@ -62,7 +62,7 @@ Receta de los tradicionales roscos fritos, tal y como los preparaba Teresa.
 - 1 huevo
 - 4 cucharadas soperas de azúcar
 - 4 cucharadas soperas de aceite refrito con matalauva
-- 4 cucharadas de leche, se puede cambiar po zumo de naranja
+- 4 cucharadas de leche, se puede cambiar por zumo de naranja
 - 1/2 cucahradita de canela
 - Levadura depende del peso de la harina( 1 paquetillo de levadura para 350gr o 400gr de harina)
 - Un chorreon de anis
