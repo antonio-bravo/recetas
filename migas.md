@@ -42,3 +42,19 @@ Para calcular automáticamente las cantidades según el peso de pan que tengas:
 ---
 
 Puedes adaptar esta tabla para otras cantidades según el peso del pan usando la misma fórmula.
+
+---
+# Migas
+
+## Para 2 platos 
+
+- **Pan:** 325 g
+- **Agua:** 104 g (o ml)
+- **Aceite de oliva**: 104 g (o ml)
+- **Sal:** 5–6 g
+- **Una cabeza de ajo**
+
+Echar la sal en el agua, disolver y humedecer el pan seco
+En una sarten echar el aceite sofreir un poco los ajos enteros, le puedes dejar la piel o no, eso ya a gusto de cada uno.
+Una vez esten un poco tostados, echamos las migas humedecidas y a mover con todo.
+Notarás que estan listas porque las migas se soltarán y todavia tendran un poquito de humedad, no las dejes que se sequen del todo.
