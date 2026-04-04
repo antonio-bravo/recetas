@@ -14,6 +14,7 @@
 - 20 ml de aceite de oliva (para la mezcla)
 - Harina (para rebozar ligeramente)
 - Aceite de oliva abundante (para freír)
+- 0,3–0,5 g de pimentón dulce (opcional)
 - 1/2 limón (opcional, para el toque final)
 
 ---
@@ -55,3 +56,57 @@
 - Para más sabor: añade 1 g de comino o una pizca de pimentón (0,5 g aprox. (media cucharadita rasa pequeña, o incluso un poco menos))
 - Para más jugosidad: mezcla cerdo con un 20% de ternera  
 - No empapar con limón: solo unas gotas para realzar el sabor
+
+
+## ⏱️ Reposo (clave del sabor)
+
+- Mínimo: 30 minutos  
+- Óptimo: 2–4 horas  
+- Ideal: 8–12 horas (toda la noche en nevera)
+
+👉 Reposar con el huevo incluido es perfectamente correcto y tradicional.
+
+- Tapar bien y guardar en frío
+- No superar 24 h
+
+---
+
+## 3. Formado
+
+- Hacer bolas de 40–50 g  
+- Aplastarlas ligeramente (importante para el crujiente)
+
+---
+
+## 4. Rebozado
+
+- Pasar por pan rallado seco  
+- Presionar ligeramente para que se adhiera  
+- Dejar reposar 5–10 minutos antes de freír
+
+---
+
+## 5. Fritura
+
+- Aceite a ~170 °C  
+- Primero fuego medio-alto para sellar  
+- Luego bajar un poco para que se hagan por dentro  
+
+Buscar:
+👉 Exterior muy dorado y crujiente  
+👉 Interior jugoso
+
+---
+
+## 6. Escurrir
+
+- Sacar a papel absorbente
+
+---
+
+## 7. Toque final
+
+- Añadir unas gotas de limón justo al sacarlas  
+- No empapar (solo un toque ligero)
+
+---
