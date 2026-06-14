@@ -1,8 +1,16 @@
 # TIMEMORE C3 ESP Pro
 ------------------------------
 
-Para configurar tu molinillo [TIMEMORE Chestnut C3 ESP Pro](https://timemoreeu.com/es/products/molinillo-de-cafe-manual-timemore-castano-c3-esp-pro), es fundamental entender su sistema de ajuste. A diferencia de los modelos C3 estándar que tienen 12 clics por vuelta, el modelo ESP cuenta con 30 clics por vuelta completa, lo que te permite una precisión extrema de 23,3 µm por clic, ideal para espresso. [1, 2, 3, 4, 5] 
-Para ajustar el molinillo, gira la tuerca hacia la derecha (sentido de las agujas del reloj) hasta que no gire más; ese será tu punto cero. A partir de ahí, abre el dial contando los clics o vueltas según el método de preparación. [4, 6, 7, 8, 9] 
+Para configurar tu molinillo
+[TIMEMORE Chestnut C3 ESP Pro](https://timemoreeu.com/es/products/molinillo-de-cafe-manual-timemore-castano-c3-esp-pro), 
+es fundamental entender su sistema de ajuste. 
+A diferencia de los modelos C3 estándar que tienen 12 clics por vuelta, 
+el modelo ESP cuenta con 30 clics por vuelta completa, lo que te permite una precisión extrema de 23,3 µm por clic, ideal para espresso. [1, 2, 3, 4, 5] 
+
+Para ajustar el molinillo,
+gira la tuerca hacia la derecha (sentido de las agujas del reloj) hasta que no gire más; ese será tu punto cero. 
+A partir de ahí, abre el dial contando los clics o vueltas según el método de preparación. [4, 6, 7, 8, 9] 
+
 ------------------------------
 ## 1. Máquina Espresso Profesional o de Bar (Bomba de presión)
 Este método utiliza una presión alta y requiere una molienda muy fina y uniforme para generar la resistencia adecuada al paso del agua. [6, 10, 11] 
