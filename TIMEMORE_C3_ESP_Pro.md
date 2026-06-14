@@ -47,3 +47,13 @@ Para ayudarte a calibrar el café perfecto, ¿podrías decirme si tu cafetera ac
 [1] [https://www.instagram.com](https://www.instagram.com/reel/DZGzDWPE9-l/)
 [2] [https://fnb.coffee](https://fnb.coffee/es/blog/proporci%C3%B3n-de-caf%C3%A9-y-agua-en-prensa-francesa/)
 [3] [https://flatnwhite.com](https://flatnwhite.com/espresso-ratio-extraccion/)
+
+
+
+En el [TIMEMORE C3 ESP Pro](https://timemoreeu.com/es/products/molinillo-de-cafe-manual-timemore-castano-c3-esp-pro), el funcionamiento es el siguiente:
+
+* Menos clics (como 17): Las muelas están más juntas. El espacio por donde pasa el café es más pequeño, por lo que el grano sale más fino (tipo polvo o harina).
+* Más clics (como 20): Las muelas se van abriendo. El espacio es mayor, por lo que el grano sale más grueso (tipo sal fina o arena).
+
+Para que te resulte fácil recordarlo: cuanto más te acerques al número cero, más fino será el café.
+
