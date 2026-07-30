@@ -60,9 +60,11 @@ Debe estar muy sabroso antes de añadir el arroz. Si está soso, corrige la sal 
 
 ## 6. Arroz
 
-1. Añade el arroz.
-2. Remueve solo una vez para repartirlo.
-3. Cuando vuelva a hervir:
+0. Pesa tu arroz: Determina cuántos gramos totales de arroz vas a usar.
+1. Calcula el líquido total: Multiplica los gramos de arroz por 1.7 (por ejemplo, para 300 g de arroz necesitas 510 ml de líquido total).
+2. Añade el arroz.
+3. Remueve solo una vez para repartirlo.
+4. Cuando vuelva a hervir:
    - tapa la olla,
    - baja el fuego al mínimo,
    - cocina durante **18 minutos**.
