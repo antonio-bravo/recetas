@@ -128,4 +128,3 @@ Servir y comer acompañado de los chifles.
 ---
 
 **Autora: Susan Hojas**
-```
