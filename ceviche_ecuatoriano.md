@@ -91,10 +91,13 @@ En un vaso de batidora añadir:
 - La parte blanca de la cebolla china o cebolleta
 - 100 g de manteca/mantequilla de cacahuete
 - Un puñado de cacahuetes tostados y salados
+- Un buen puñado de culantro o cilantro
 
 Triturar todo hasta obtener una salsa cremosa y homogénea.
 
 Añadir el caldo poco a poco. Es mejor empezar con poca cantidad y corregir la textura después.
+
+**El maní ponerlo en un sartén hasta que espese**, realza el sabor con el culantro o cilantro.
 
 ### 6. Juntar el ceviche
 
