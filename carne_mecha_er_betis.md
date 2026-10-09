@@ -17,7 +17,7 @@ Adaptación de la mítica receta del bar **Er Beti** en El Puerto de Santa Marí
 | **Cabezada de cerdo** (Aguja) | 1,5 kg (1500 g) | Pedir en malla/red para mantener la forma |
 | **Manteca colorá** | 100 g | Para embadurnar la pieza exteriormente |
 | **Cebolla** | 1 grande (aprox. 250 g) | Picada en trozos grandes |
-| **Ajos** | 6 dientes enteros | Golpeados y con su piel |
+| **Ajos** | 6 dientes enteros (6x5g 30gr) | Golpeados y con su piel |
 | **Vino blanco** | 1 vaso (200 ml) | Idealmente Fino de El Puerto u Oloroso |
 | **Pimentón dulce** | 1 cucharadita (5 g) | De buena calidad |
 | **Laurel** | 2 hojas | Secas |
