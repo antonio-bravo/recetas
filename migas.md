@@ -1,17 +1,17 @@
 # Receta para aprovechar pan duro con agua y aceite
 
-Decir que se necesita alrededor del 32 % del peso del pan tanto en agua como en aceite es una buena regla general, sobre todo si quieres ajustar las cantidades según el pan que tengas.
+Decir que se necesita alrededor del 32 % del peso del pan en agua y entre 15% - 18% en aceite es una buena regla general, sobre todo si quieres ajustar las cantidades según el pan que tengas.
 
 ## Ejemplo de proporción
 
 - **Pan:** 325 g
 - **Agua:** 32 % de 325 g ≈ 104 g (o ml)
-- **Aceite de oliva:** 32 % de 325 g ≈ 104 g (o ml)
+- **Aceite de oliva:** 15 % de 325 g ≈ 48.75  - 57 g (0,91g por ml)
 - **Sal:** 5–6 g
 
 Entonces usarías aproximadamente:
 - 100–105 ml de agua
-- 100–105 ml de aceite de oliva
+- 48,75 g - 57 g o 44,36 ml - 51.87 ml de aceite de oliva
 - 5–6 g de sal
 
 Esto coincide muy bien con la receta tradicional y mantiene la proporción correcta entre pan, agua y aceite.
@@ -24,7 +24,7 @@ Esto coincide muy bien con la receta tradicional y mantiene la proporción corre
 
 Para calcular automáticamente las cantidades según el peso de pan que tengas:
 - Agua = peso del pan × 0,32
-- Aceite = peso del pan × 0,32
+- Aceite = peso del pan × 0,15 o 0,18
 - Sal = 5–6 g por cada 325 g de pan
 
 ## Tabla de porcentajes (sobre el pan)
@@ -32,7 +32,7 @@ Para calcular automáticamente las cantidades según el peso de pan que tengas:
 | Ingrediente   | Cantidad       | Porcentaje sobre el pan |
 | ------------- |---------------|-------------------------|
 | Agua          | 104 g          | 32 %                   |
-| Aceite de oliva| 104 g          | 32 %                   |
+| Aceite de oliva| 48.75 g - 51.87 g         | 15 % - 18 %                  |
 | Sal           | 5–6 g          | 1,54–1,85 %            |
 
 - El porcentaje de sal se calcula como:  
@@ -50,7 +50,7 @@ Puedes adaptar esta tabla para otras cantidades según el peso del pan usando la
 
 - **Pan:** 325 g
 - **Agua:** 104 g (o ml)
-- **Aceite de oliva**: 104 g (o ml)
+- **Aceite de oliva**: 48.75 g - 51.87 g (44.36 ml o 51.87 ml)
 - **Sal:** 5–6 g
 - **Una cabeza de ajo**
 
