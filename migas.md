@@ -37,7 +37,7 @@ Para calcular automáticamente las cantidades según el peso de pan que tengas:
 
 - El porcentaje de sal se calcula como:  
   - Para 5 g: (5 g / 325 g) × 100 = 1,54 %
-  - Para 6 g: (6 g / 325 g) × 100 = 1,85 %[web:1][web:2][web:3][web:6]
+  - Para 6 g: (6 g / 325 g) × 100 = 1,85 %
 
 ---
 
