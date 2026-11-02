@@ -7,12 +7,12 @@ Decir que se necesita alrededor del 32 % del peso del pan en agua y entre 15% 
 - **Pan:** 325 g
 - **Agua:** 32 % de 325 g ≈ 104 g (o ml)
 - **Aceite de oliva:** 15 % de 325 g ≈ 48.75  - 57 g (0,91g por ml)
-- **Sal:** 5–6 g
+- **Sal:** 4–5 g
 
 Entonces usarías aproximadamente:
 - 100–105 ml de agua
 - 48,75 g - 57 g o 44,36 ml - 51.87 ml de aceite de oliva
-- 5–6 g de sal
+- 4–5 g de sal
 
 Esto coincide muy bien con la receta tradicional y mantiene la proporción correcta entre pan, agua y aceite.
 
