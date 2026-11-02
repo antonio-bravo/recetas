@@ -25,7 +25,7 @@ Esto coincide muy bien con la receta tradicional y mantiene la proporción corre
 Para calcular automáticamente las cantidades según el peso de pan que tengas:
 - Agua = peso del pan × 0,32
 - Aceite = peso del pan × 0,15 o 0,18
-- Sal = 5–6 g por cada 325 g de pan
+- Sal = peso del pan × 0,013 (orientativo)
 
 ## Tabla de porcentajes (sobre el pan)
 
@@ -33,15 +33,25 @@ Para calcular automáticamente las cantidades según el peso de pan que tengas:
 | ------------- |---------------|-------------------------|
 | Agua          | 104 g          | 32 %                   |
 | Aceite de oliva| 48.75 g - 51.87 g         | 15 % - 18 %                  |
-| Sal           | 5–6 g          | 1,54–1,85 %            |
+| Sal           | 4–5 g          | 1,3 %            |
 
-- El porcentaje de sal se calcula como:  
-  - Para 5 g: (5 g / 325 g) × 100 = 1,54 %
-  - Para 6 g: (6 g / 325 g) × 100 = 1,85 %
 
 ---
 
-Puedes adaptar esta tabla para otras cantidades según el peso del pan usando la misma fórmula.
+## ¿Cuánto pan por plato?
+
+Como orientación, calcula **100–125 g de pan seco o asentado por persona** si las migas son el plato principal y llevan acompañamientos. Para raciones más pequeñas o si hay otros platos, calcula **75–100 g por persona**.
+
+| Comensales | Ración de 100 g/persona | Ración de 125 g/persona |
+|---:|---:|---:|
+| 2 | 200 g de pan | 250 g de pan |
+| 3 | 300 g de pan | 375 g de pan |
+| 4 | 400 g de pan | 500 g de pan |
+| 5 | 500 g de pan | 625 g de pan |
+| 6 | 600 g de pan | 750 g de pan |
+| 8 | 800 g de pan | 1.000 g de pan |
+
+Con 494 g de pan salen aproximadamente **4 raciones moderadas** de unos 125 g de pan por persona, o **5 raciones pequeñas** de unos 100 g.
 
 ---
 # Migas
@@ -51,10 +61,25 @@ Puedes adaptar esta tabla para otras cantidades según el peso del pan usando la
 - **Pan:** 325 g
 - **Agua:** 104 g (o ml)
 - **Aceite de oliva**: 48.75 g - 51.87 g (44.36 ml o 51.87 ml)
-- **Sal:** 5–6 g
+- **Sal:** 5 g
 - **Una cabeza de ajo**
 
-Echar la sal en el agua, disolver y humedecer el pan seco
-En una sarten echar el aceite sofreir un poco los ajos enteros, le puedes dejar la piel o no, eso ya a gusto de cada uno.
-Una vez esten un poco tostados, echamos las migas humedecidas y a mover con todo.
-Notarás que estan listas porque las migas se soltarán y todavia tendran un poquito de humedad, no las dejes que se sequen del todo.
+## Preparación resumida
+
+1. Corta el pan en migas de tamaño parecido.
+2. Reparte el agua poco a poco, mezclando para humedecerlo uniformemente sin empaparlo.
+3. Tapa y deja reposar varias horas; si lo preparas con antelación, puedes dejarlo reposar toda la noche.
+4. Dora el ajo y los acompañamientos en el aceite. Si sueltan mucha grasa, reserva parte y añádela solo si las migas la necesitan.
+5. Incorpora el pan y cocina a fuego medio-bajo, removiendo con frecuencia, hasta que las migas estén sueltas, doradas por partes y sin sensación de pan mojado.
+6. Prueba y ajusta la sal al final. Evita cocinar de más si ya están secas y sueltas.
+
+## Ajustes según la textura
+
+- **Se pegan o forman pegotes húmedos:** sigue cocinando a fuego medio-bajo y separa las migas con la espátula.
+- **Quedan demasiado secas:** la próxima vez aumenta ligeramente el agua, en pequeñas cantidades.
+- **Quedan grasientas:** reduce algo el aceite o escurre parte de la grasa de los acompañamientos.
+- **Se doran demasiado rápido:** baja el fuego; no intentes secarlas con calor excesivo.
+
+## Observación
+
+Estas cantidades son una base flexible, no una fórmula universal: influyen el tipo de pan, su humedad inicial, el tamaño de las migas, la sartén y los ingredientes añadidos.
